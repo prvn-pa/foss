@@ -1,16 +1,16 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              FOSS Notes
+email:              prvnpa4@gmail.com
+description:        A blog to share notes on free and open source sofware, in particular for researchers and scientists
+author:             Praveen
 baseurl:            "/foss"
 url:                "https://prvn.info/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+twitter_username:   Prvnpa4
+github_username:    prvn-pa
+facebook_username:  prvnpa4
+instagram_username:  prvn-pa
+linkedin_username:  prvn-pa
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
