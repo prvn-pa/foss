@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Linking A Custom Domain To Github Pages"
+subtitle: "its easy - and saviour for terminal users"
 date: 2022-08-23 12:50:00 +0300
-background: 'https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg'
+background: '/img/posts/01.jpg'
 ---
+
+# 
 
 ## STEP 1
 
@@ -11,9 +14,7 @@ Make sure you have domain. I use Google Domains.
 
 ## STEP 2
 
-Go to Github `username.github.io` repository. Then to settings and left side there should be an option called `Pages`. In which enter your domain name and save. 
-
-**Note:** You may need to put a `CNAME` file in your repo just with the domain name.
+Go to Github `username.github.io` repository. Then to settings and left side there should be an option called `Pages`. In which enter your doman name and save.
 
 ## STEP 3
 
