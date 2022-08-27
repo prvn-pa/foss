@@ -17,4 +17,3 @@ Personally, it doesn't altogether remove my requirement for Libreoffice. A signi
 
 I primarily use this with all such limitations for my word processing requirements. So, if you are also looking for an alternate WYSIWYG editor, I would strongly recommend you to consider ONLY OFFICE. The package is available for Linux, Mac, Windows, and an online version.
 
-My rating: :star:
