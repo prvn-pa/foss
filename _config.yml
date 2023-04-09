@@ -1,16 +1,15 @@
-title:              PRVN. | FOSS Notes
+title:              PRAVEEN. | FOSS Notes
 email:              prvnpa4@gmail.com
 description:        A blog to share notes on free and open source sofware, in particular for researchers and scientists
 author:             Praveen
 baseurl:            "/foss"
-url:                "https://prvn.info/"
+url:                "https://prvn-pa.github.io/"
 
 # Social Profiles
 twitter_username:   Prvnpa4
 github_username:    prvn-pa
 facebook_username:  prvnpa4
 instagram_username:  prvnpa
-linkedin_username:  prvn-pa
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
