@@ -3,7 +3,7 @@ layout: post
 title: "Record or live streaming with OBS"
 subtitle: "Step by step guide to setup and stream"
 date: 2022-08-22 20:21:00 +0300
-background: '/img/posts/1054713.jpg'
+background: '/img/ps-02.jpg'
 ---
 
 ## 1. Installation:

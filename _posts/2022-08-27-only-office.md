@@ -2,7 +2,7 @@
 layout: post
 title: "ONLY OFFICE - A free alternate to MS office"
 date: 2022-08-27 12:50:00 +0300
-background: '/img/posts/372748.jpg'
+background: '/img/ps-04.jpg'
 ---
 
 Many people willing to test Linux OS often return to their windows for one primary reason: MS Office. The same is true in my case when I attempted such switches in the past. After a while (ten years ago), I have been settled with LaTeX and ultimately adopted Linux. In fact, with markdown syntax, this tends to be even more convincing.

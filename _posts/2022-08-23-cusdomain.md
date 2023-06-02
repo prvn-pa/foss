@@ -2,7 +2,7 @@
 layout: post
 title: "Linking A Custom Domain To Github Pages"
 date: 2022-08-23 12:50:00 +0300
-background: '/img/posts/1779487.jpg'
+background: '/img/ps-03.jpg'
 ---
 
 ## STEP 1
