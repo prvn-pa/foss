@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ONLY OFFICE - A free alternate to MS office"
-date: 2022-08-27 12:50:00 +0300
+date: 2023-02-27 12:50:00 +0300
 background: '/img/ps-04.jpg'
 ---
 

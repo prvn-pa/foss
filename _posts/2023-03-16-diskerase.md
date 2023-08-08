@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easily Restore Your USB Drive with fdisk in Linux"
-date: 2022-09-16 12:50:00 +0300
+date: 2023-03-16 12:50:00 +0300
 background: '/img/ps-03.jpg'
 ---
 

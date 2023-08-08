@@ -2,7 +2,7 @@
 layout: post
 title: "Record or live streaming with OBS"
 subtitle: "Step by step guide to setup and stream"
-date: 2022-08-22 20:21:00 +0300
+date: 2023-01-28 20:21:00 +0300
 background: '/img/ps-02.jpg'
 ---
 
